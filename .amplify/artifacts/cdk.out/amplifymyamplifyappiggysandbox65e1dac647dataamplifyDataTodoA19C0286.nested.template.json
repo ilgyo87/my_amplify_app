@@ -2017,7 +2017,7 @@
   "CDKMetadata": {
    "Type": "AWS::CDK::Metadata",
    "Properties": {
-    "Analytics": "v2:deflate64:H4sIAAAAAAAA/1WOwW6DMAyGn6X34K3lsh5Xqh63CXavTGJQCjgodlpViHefoFOnnX5/8if738H2bQ/bDd4ks67Lel/D9EGi5CpF25mi4S+MOJBSXKAI7Lz6wKYkCSlaMkUSDcMfNvyc8Sbnyd0Zh+Bq+Ma6pwMKGY8DTGXoH3boaTY4jnJnC9Nx1Y/1ERWr58n/dEpslxJF4Ma3KeLa6Pdzf6U4G8nPKEIq8L6EkRwOyXakS4F5cT+TjknNuq4UW8/tbDg4gou8XHc57OF1cxHvs5hY/UBQPvIHcEt+xjUBAAA="
+    "Analytics": "v2:deflate64:H4sIAAAAAAAA/1WQQW+DMAyFf8vuqbeVU48raMdtgt0rkxiUAg6KnVYV4r9PoVOnnZ6f3pP9yXt4PRzg5QmvsrNu2I2+heWDRMk1inYwZcdfGHEipZhNGdh59YFNTRJStGTKJBqmP9vxY8arnBZ3Y5yCa+Eb25GOKGQ8TrDUYby3w0irwXmWG1tYqq1etRUqNo+V/917YpshysCd71PEjej38nihuBopTihCKvCWxUgBx2QH0gyw5u5n0jmp2eJGsffcr4aDIzjL82VfQH7MWbzfxcTqJ4L6rj+V/54UNQEAAA=="
    },
    "Metadata": {
     "aws:cdk:path": "amplify-myamplifyapp-iggy-sandbox-65e1dac647/data/amplifyData/Todo/CDKMetadata/Default"

@@ -301,7 +301,7 @@
   "CDKMetadata": {
    "Type": "AWS::CDK::Metadata",
    "Properties": {
-    "Analytics": "v2:deflate64:H4sIAAAAAAAA/02LwQ6CMBBEv4V7WQUvcjScvBiD8Wxqu+pCaRN2kZim/26IQT3NzJuZEoptBUWmJ86N7XJHV4gHZEF7Em06pSe+RBPuniRAPDMOxxCcqm/+6xdTO0Iv/9WP7C16IXkt5//cBIc7EW0ePXpJinQPcYbzcNaUVIMcxsFgUj5YhJZXz3IDFayzlonyYfRCPULz0TdEhisT1gAAAA=="
+    "Analytics": "v2:deflate64:H4sIAAAAAAAA/01OvQrCMBB+Fvf01Dp1lE4uIhVnicmp16Y5aK4WCXl3CVLt9P3DV8K2qmCz0lMojO0KRzeIRwyC9izadEpP4RoNPzwJQ7wEHE7MTtV3/+MzqR2hl2X0dw4WvZC85/FSN+xwL6LNs0cvSZHuIWYzFzOmpBoMPA4Gk/JsEdqwfpU7yM/bQFQMoxfqEZovfgCM0+yY1gAAAA=="
    },
    "Metadata": {
     "aws:cdk:path": "amplify-myamplifyapp-iggy-sandbox-65e1dac647/auth/CDKMetadata/Default"
